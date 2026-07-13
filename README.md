@@ -136,6 +136,10 @@ After infrastructure provisioning:
 
 7. Deploy the generated WAR file.
 
+
+<img width="1918" height="1015" alt="Screenshot 2026-07-13 205318" src="https://github.com/user-attachments/assets/ca1856d2-2abd-4fcf-9bb0-83e263b7dac7" />
+
+
 ---
 
 # Database Configuration
@@ -156,6 +160,12 @@ Password: ********
 Host: mc01.vprofile
 Port: 11211
 ```
+
+<img width="1918" height="1018" alt="Screenshot 2026-07-13 205159" src="https://github.com/user-attachments/assets/92dfc225-3c38-40ac-9a36-e14b226f9491" />
+
+
+<img width="1918" height="1015" alt="Screenshot 2026-07-13 205146" src="https://github.com/user-attachments/assets/ffd31522-c9d3-4405-bdd6-84f8e6436f38" />
+
 
 ---
 
@@ -217,11 +227,5 @@ Terraform outputs include:
 
 ---
 
-# Author
+<img width="1912" height="886" alt="Screenshot 2026-07-13 205753" src="https://github.com/user-attachments/assets/4699206a-a85e-4aea-b06d-dc2ae112100b" />
 
-**Esraa Ghazal**
-
-DevOps Engineer
-
-GitHub:
-https://github.com/esraaghazal
