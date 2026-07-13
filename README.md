@@ -46,26 +46,6 @@ The infrastructure follows a multi-tier architecture and includes networking, co
 
 # Infrastructure Layout
 
-```
-Internet
-    |
-    |
-Application Load Balancer
-    |
------------------------------
-|                           |
-Tomcat 1                 Tomcat 2
-(Private)               (Private)
-      \                   /
-       \                 /
-        -----------------
-               |
---------------------------------------------
-|                  |                        |
-RDS             Memcached             RabbitMQ
-```
-
----
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/1d769f95-9b41-4cac-a004-a5170e107640" />
 
 
