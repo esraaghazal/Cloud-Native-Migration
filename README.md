@@ -12,6 +12,9 @@ The infrastructure follows a multi-tier architecture and includes networking, co
 
 # Architecture
 
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/1d769f95-9b41-4cac-a004-a5170e107640" />
+
+
 - Custom VPC
 - Public and Private Subnets
 - Internet Gateway
@@ -44,9 +47,6 @@ The infrastructure follows a multi-tier architecture and includes networking, co
 
 ---
 
-# Infrastructure Layout
-
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/1d769f95-9b41-4cac-a004-a5170e107640" />
 
 
 # Project Structure
